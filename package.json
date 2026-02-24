@@ -1,0 +1,17 @@
+{
+  "name": "william-greenwalt-portfolio",
+  "version": "1.0.0",
+  "description": "William Greenwalt - UX and Product Experience Designer Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "echo 'Build complete'",
+    "start": "live-server --port=3000"
+  },
+  "keywords": ["portfolio", "ux-design", "product-design", "william-greenwalt"],
+  "author": "William Greenwalt",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
